@@ -1,0 +1,6 @@
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/FacultyServiceApplication.java
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/controller/FacultyController.java
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/dto/FacultyDTO.java
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/model/Faculty.java
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/repository/FacultyRepository.java
+/home/cac/coding/others-project/IP-mini/studentevent/faculty-service/src/main/java/com/studentevent/facultyservice/service/FacultyService.java

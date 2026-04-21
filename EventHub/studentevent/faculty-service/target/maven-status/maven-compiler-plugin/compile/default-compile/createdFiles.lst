@@ -1,0 +1,11 @@
+com/studentevent/facultyservice/service/FacultyService.class
+com/studentevent/facultyservice/FacultyServiceApplication.class
+com/studentevent/facultyservice/dto/FacultyDTO$FacultyResponse.class
+com/studentevent/facultyservice/dto/FacultyDTO$LoginRequest.class
+com/studentevent/facultyservice/model/Faculty$FacultyBuilder.class
+com/studentevent/facultyservice/dto/FacultyDTO.class
+com/studentevent/facultyservice/repository/FacultyRepository.class
+com/studentevent/facultyservice/dto/FacultyDTO$RegisterRequest.class
+com/studentevent/facultyservice/model/Faculty.class
+com/studentevent/facultyservice/dto/FacultyDTO$LoginResponse.class
+com/studentevent/facultyservice/controller/FacultyController.class

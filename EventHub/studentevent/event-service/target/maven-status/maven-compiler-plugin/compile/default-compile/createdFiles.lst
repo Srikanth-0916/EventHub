@@ -1,0 +1,14 @@
+com/studentevent/eventservice/repository/EventRepository.class
+com/studentevent/eventservice/model/Event$EventBuilder.class
+com/studentevent/eventservice/model/Event.class
+com/studentevent/eventservice/dto/EventDTO$RegisterStudentRequest.class
+com/studentevent/eventservice/dto/EventDTO$EventResponse.class
+com/studentevent/eventservice/repository/EventRegistrationRepository.class
+com/studentevent/eventservice/dto/EventDTO.class
+com/studentevent/eventservice/dto/EventDTO$CreateEventRequest.class
+com/studentevent/eventservice/controller/EventController.class
+com/studentevent/eventservice/EventServiceApplication.class
+com/studentevent/eventservice/dto/EventDTO$RegistrationResponse.class
+com/studentevent/eventservice/model/EventRegistration.class
+com/studentevent/eventservice/model/EventRegistration$EventRegistrationBuilder.class
+com/studentevent/eventservice/service/EventService.class

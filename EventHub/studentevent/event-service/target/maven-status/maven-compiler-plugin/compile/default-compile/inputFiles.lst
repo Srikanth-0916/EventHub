@@ -1,0 +1,8 @@
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/EventServiceApplication.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/controller/EventController.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/dto/EventDTO.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/model/Event.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/model/EventRegistration.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/repository/EventRegistrationRepository.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/repository/EventRepository.java
+/home/cac/coding/others-project/IP-mini/studentevent/event-service/src/main/java/com/studentevent/eventservice/service/EventService.java
