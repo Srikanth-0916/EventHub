@@ -1,4 +1,4 @@
-# 🎓 Student Event Management System (IP-mini)
+# 🎓 Student Event Management System
 
 ## 📌 Description
 This project is a full-stack web application designed to manage student and faculty events. It features a modern **microservices-based backend** to ensure scalability and separation of concerns, alongside a fast, interactive frontend.
